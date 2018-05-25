@@ -1,14 +1,26 @@
 # Les objectifs
 
-## Principaux
-
 - Importer des données de data.gouv.fr vers wikidata
 - Construire des requêtes SparQL utiles à la mission Étalab
 
-## Logistique
+Le tout au format « barcamp » : on définit ensemble ce qui nous
+intéresse et on le fait.
+
+# Logistique
 
 - À la DINSIC, au 20 avenue de Ségur
 - Salle 5728 pour une vingtaine de personnes
+
+# Idées de contenus à travailler
+
+- Axe géographique :
+  - code officiel géographie
+  - Base des codes postaux
+- Axe culture :
+  - Bases Palissy et Mérimée
+- Axe entreprise : 
+  - "Sireniser" des données de Wikidata (puis Wikipédia) ?
+- [Toute autre idée !]
 
 # Déroulé provisoire
 
@@ -33,15 +45,4 @@
 ## 14h30-17h30 : Travail en petits groupes thématiques
 
 ## 17h30-18h30 : Restitution finale
-
-# Idées de contenus à travailler
-
-- Axe géographique :
-  - code officiel géographie
-  - Base des codes postaux
-- Axe culture :
-  - Bases Palissy et Mérimée
-- Axe entreprise : 
-  - "Sireniser" des données de Wikidata (puis Wikipédia) ?
-- [Toute autre idée !]
 
