@@ -16,6 +16,7 @@ Le tout au format « barcamp » : on définit ensemble ce qui nous intéresse et
 - Le 12 juin de 9h30 à 18h30
 - À la DINSIC, au 20 avenue de Ségur
 - Salle 5728 pour une vingtaine de personnes
+- Inscription : par mail à `bastien.guerry@data.gouv.fr`
 
 ## Idées de contenus à travailler
 
