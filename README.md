@@ -13,6 +13,7 @@ Le tout au format « barcamp » : on définit ensemble ce qui nous intéresse et
 
 ## Logistique
 
+- Le 12 juin de 9h30 à 18h30
 - À la DINSIC, au 20 avenue de Ségur
 - Salle 5728 pour une vingtaine de personnes
 
@@ -57,4 +58,4 @@ Le tout au format « barcamp » : on définit ensemble ce qui nous intéresse et
 
 ## Ressources
 
-* [Mix N Match](https://tools.wmflabs.org/mix-n-match/#/) 
+* [Mix N Match](https://tools.wmflabs.org/mix-n-match/#/)
