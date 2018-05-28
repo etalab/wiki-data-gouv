@@ -58,4 +58,5 @@ Le tout au format « barcamp » : on définit ensemble ce qui nous intéresse et
 
 ## Ressources
 
-* [Mix N Match](https://tools.wmflabs.org/mix-n-match/#/)
+- [Mix N Match](https://tools.wmflabs.org/mix-n-match/#/)
+- [wikidata-cli](https://github.com/maxlath/wikidata-cli)
