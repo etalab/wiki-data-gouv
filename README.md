@@ -62,3 +62,4 @@ Le tout au format « barcamp » : on définit ensemble ce qui nous intéresse et
 - [Mix N Match](https://tools.wmflabs.org/mix-n-match/#/)
 - [wikidata-cli](https://github.com/maxlath/wikidata-cli)
 - [Wikidata reconciliation for OpenRefine](https://tools.wmflabs.org/openrefine-wikidata)
+- [Créer un robot dans wikidata](https://www.wikidata.org/wiki/Wikidata:Creating_a_bot/fr)
