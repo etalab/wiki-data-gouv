@@ -28,10 +28,39 @@ Le tout au format « barcamp » : on définit ensemble ce qui nous intéresse et
 - Axe entreprises et associations : 
   - "Sireniser" des données de Wikidata (puis Wikipédia) ?
   - Créer un pywikibot pour importer des infos (adresse, date de création, etc) dans Wikidata à partir d'un SIRET
+  - tourisme
+    - https://www.data.gouv.fr/fr/datasets/donnees-touristiques-de-la-base-datatourisme/
 - Axe annuaire des administrations
   - Comment wikidater le référentiel des organisations de Wikidata pour récupérer les alias sur datagouv et améliorer le search ?
   - Comment faire le lien entre les admnistrations sur Wikidata et l'annuaire du service public
 - [Toute autre idée !]
+- Axe biologie
+  - botanique
+  - diversité et répartition des espèces 
+    - https://www.data.gouv.fr/fr/datasets/les-herbiers-de-zosteres-de-la-region-bretagne-inventaire-2007-des-sites/
+    https://www.data.gouv.fr/fr/datasets/carte-biosedimentaire-des-fonds-meubles-des-pertuis-charentais-source-hily-c-1976-echelle-1-100-000/
+    - https://www.data.gouv.fr/fr/datasets/hamster-reconquete-en-alsace/
+  - taxonime 
+- Axe lexicologie
+  - Wikidata propose maintenant l’extension Lexeme en production, cependant les imports automatisés sont pour le moment découragés. Il serait néanmoins intéressant de faire un tour d’horizon des données disponibles sous licence libre, compatible avec CC-0 (Wikidata) ou CC-by-sa-3.0-unported (Wiktionnaire)
+   - https://www.data.gouv.fr/fr/organizations/rennes-language-center/#dashboard
+- Axe anthropologie/sociologie
+  - cultes
+  - démographie
+  - langues
+- Axe éducation
+  - liste des établissements
+  - organigrammes
+    - https://www.data.gouv.fr/fr/datasets/ontologies-descriptives-du-systeme-et-des-programmes-scolaires-francais/
+  - liste des domaines de recherche universitaire
+    - https://www.data.gouv.fr/fr/datasets/domaines-scientifiques-et-structures-de-recherche-de-luniversite/
+- Axe médecine
+- Axe géologie
+- Axe environnement
+  - https://www.data.gouv.fr/fr/datasets/mise-a-disposition-de-donnees-de-qualite-de-lair-sur-la-france-www-prevair-org-1/
+- Axe astronomie
+
+
 
 ## Déroulé
 
