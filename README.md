@@ -2,6 +2,8 @@
 
 > Créer des liens entre wikidata et datagouv.
 
+- Notes : https://etherpad.wikimedia.org/p/wiki-data-gouv
+
 ## Objectifs 
 
 - Importer des données de data.gouv.fr vers wikidata
