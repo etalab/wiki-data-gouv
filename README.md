@@ -52,6 +52,11 @@ intéresse et on le fait.
 - [Wikidata reconciliation for OpenRefine](https://tools.wmflabs.org/openrefine-wikidata)
 - [Créer un robot dans wikidata](https://www.wikidata.org/wiki/Wikidata:Creating_a_bot/fr)
 
+## Point juridique
+Dans la licence ouverte, l'obligation de citer la source et la date ne porte que sur le primo-réutilisateur. La license ouverte n'est pas contaminante. Elle n'est pas un droit d'auteur au sens propre (donc pas de problème avec un éventuel renoncement au droit d'auteur au sens de la CC0) puisque l'État n'a pas de droit sur les données. La licence porte de toute façon sur la donnée (non protégeable individuellement par le droit d'auteur) et non sur le jeu de données. 
+
+Wikidata permet cela sans problème, puisque chaque élément de donnée peut avoir une référence, et que nous avons déjà les propriétés pour l'URL de référence, la date de production de la donnée et la date d'import.
+
 ## Idées de contenus à travailler
 
 - Axe géographique :
