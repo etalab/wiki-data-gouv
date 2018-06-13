@@ -89,7 +89,8 @@ Wikidata permet cela sans problème, puisque chaque élément de donnée peut av
     (Wikidata) ou CC-by-sa-3.0-unported (Wiktionnaire).
 	
    - https://www.data.gouv.fr/fr/organizations/rennes-language-center/#dashboard
-   
+   - https://www.uantwerpen.be/en/research-groups/clips/projects-and-publica/datasets/
+
 - Axe anthropologie/sociologie
   - cultes
   - démographie
